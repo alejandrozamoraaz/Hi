@@ -1,0 +1,17 @@
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hi.csprojAssemblyReference.cache
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hi.Form1.resources
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hi.csproj.GenerateResource.cache
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hi.csproj.CoreCompileInputs.cache
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hi.Form2.resources
+C:\Users\al3xz\source\repos\Hi\bin\Debug\Hola.exe.config
+C:\Users\al3xz\source\repos\Hi\bin\Debug\Hola.exe.manifest
+C:\Users\al3xz\source\repos\Hi\bin\Debug\Hola.application
+C:\Users\al3xz\source\repos\Hi\bin\Debug\Hola.exe
+C:\Users\al3xz\source\repos\Hi\bin\Debug\Hola.pdb
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.Properties.Resources.resources
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.TrustInfo.xml
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.exe.manifest
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.application
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.exe
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.pdb
+C:\Users\al3xz\source\repos\Hi\obj\Debug\Hola.exe.licenses
